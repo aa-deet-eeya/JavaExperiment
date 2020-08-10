@@ -1,4 +1,4 @@
-package SimpleScreen;
+package Image.assets.SimpleScreen;
 
 import javax.swing.*;
 import java.awt.*;
